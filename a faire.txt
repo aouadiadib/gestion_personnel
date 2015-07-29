@@ -1,0 +1,14 @@
+Aouadi Adib
+
+1 faire la copie de dossier dans le www de wampserver
+2 faire creer une base de doinnées s'apelle rh
+3 faire importer rh(2).sql sans sans oublier de decocher les deuch chekbox dans la page de l'import
+4 pour acceder a la partie admin de lapplication 
+	localhost/RHs/admin/
+	login: admin
+	mot de passe : 123
+5 pour la partie client
+	login : karim
+	mot de passe : 123456 
+
+pour plus d'information 26715671 . 
